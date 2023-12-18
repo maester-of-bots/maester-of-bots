@@ -4,7 +4,7 @@
  
 I love making making random things / automations with Python.  It's my go-to language for most of my projects. 
 
-## 🌐 **Some Repositories**
+## 🌐 **Some stuff I've done**
 
 **[whatsmyfuckingip.com](https://github.com/maester-of-bots/whatsmyfuckingip.com)**: [A vulgar IP address checker.](https://whatsmyfuckingip.com)
 
